@@ -122,6 +122,13 @@ python src/inference.py
 This generates the required `predictions.json` file.
 
 ---
+## Quick Start
+
+Train model:
+python src/train.py
+
+Run inference:
+python src/inference.py
 
 ## Project Structure
 
