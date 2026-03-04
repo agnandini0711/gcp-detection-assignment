@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/train_dataset/
+data/test_dataset/
+outputs/model.pth
